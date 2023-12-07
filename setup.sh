@@ -46,7 +46,7 @@ brew install --cask github
 brew install --cask google-chrome
 brew install --cask kindle-comic-converter
 brew install --cask raycast
-brew install --cask spectacle
+brew install --cask rectangle
 brew install --cask spotify
 brew install --cask telegram
 brew install --cask visual-studio-code
